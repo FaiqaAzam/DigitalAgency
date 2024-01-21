@@ -1,0 +1,311 @@
+/* CSS FOR NAVBAR */
+.image{
+    width: 73%;
+    margin-left: 10%;
+}
+
+.leftnavbar{
+    margin-left: 45%;
+    /* margin-left: 16%; */
+}
+
+.spaces{
+    margin-left: 19px;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 17px;
+}
+
+.spaces:hover{
+    color: white;
+    background-color: #a150a3;
+    border-radius: 8px;
+}
+
+.navbg{
+    background-image: linear-gradient(to left, #241042eb, purple);
+    color: white;
+}
+
+.mode{
+    width: 44px;
+    height: 19px;
+    margin-right: 18px;
+}
+
+/* .sun1{
+    color: rgb(255, 255, 255);
+    margin-top: 4px;
+}
+
+.dropdown-toggle:empty::after {
+    margin-left: 6px;
+}
+
+.dropdown-menu show{
+    margin-left: -251%;
+    border-radius: 11px;
+} */
+
+/* CSS FOR HOME PG */
+.homeimg{
+    width: 117%;
+    margin-left: 15px;
+    margin-top: 17%;
+}
+
+.play{
+    width: 27%;
+    margin-left: 3px;
+
+}
+
+.info{
+    margin: 97px 0 0 13px;
+}
+
+.watch{
+    margin-top: 9px;
+    margin-left: -147px;
+    font-size: 22px;
+    font-weight: 500;
+}
+
+.tutor:hover{
+    font-size: 34px;
+    margin-top: -9px;
+}
+.wave{
+    width: 103%;
+    margin-left: -28px;
+    margin-top: -46px;
+}
+
+
+/* CSS FOR SERVICE PG */
+.what{
+    margin-top: 50px
+}
+
+.what::before{
+    content: '';
+    background-color: purple;
+    display: block;
+    height: 5px;
+    width: 200px;
+    margin-left: 558px;
+    transform: translateY(60px);
+}
+
+.what::after{
+    content: '';
+    background-color: purple;
+    display: block;
+    height: 13px;
+    width: 55px;
+    margin-left: 632px;
+    transform: translateY(3px);
+}
+
+.service{
+    width: 46%;
+    margin-top: 15%;
+    margin-left: 27%;
+}
+
+.view{
+    margin-top: 16px;
+    border: 2px solid black;
+    margin-bottom: 4%;
+    width: 17%;
+    margin-left: 42%;
+    background-color: purple;
+    border-radius: 20px;
+    font-size: 24px;
+    color: white;
+    font-weight: 600;
+    padding: 2px 1px;
+}
+
+.view:hover{
+    margin-top: 16px;
+    border: 2px solid black;
+    margin-bottom: 4%;
+    width: 17%;
+    margin-left: 42%;
+    background-color: white;
+    border-radius: 20px;
+    font-size: 24px;
+    color: purple;
+    font-weight: 600;
+    padding: 2px 1px;
+}
+
+
+/* CSS FOR ABOUT US PG */
+.why{
+    padding-top: 50px;
+}
+
+.why::before{
+    content: '';
+    background-color: white;
+    display: block;
+    height: 5px;
+    width: 200px;
+    margin-left: 558px;
+    transform: translateY(60px);
+}
+
+.why::after{
+    content: '';
+    background-color: white;
+    display: block;
+    height: 13px;
+    width: 55px;
+    margin-left: 632px;
+    transform: translateY(3px);
+}
+
+.diff{
+    margin-top: 19%;
+}
+
+.mar{
+    margin-top: 4%;
+}
+
+.network{
+    margin-left: 26%;
+    margin-top: 3%;
+    margin-bottom: 4%;
+}
+
+/* CSS FOR ACHIEVEMENTS PG */
+.ppl{
+    margin-left: 33%;
+    margin-top: 4%;
+}
+
+.text{
+    font-weight: 400;
+    font-size: 30px;
+}
+
+.achive{
+    width: 24%;
+    border-radius: 17px;
+    margin-left: 92px;
+    margin-top: 3%;
+
+}
+
+.left{
+    margin-bottom: 4%;
+}
+
+/* CSS FOR TESTIMONIALS */
+.border1{
+    border-left: 3px solid black;
+    margin-top: 5%;
+}
+
+.faiqa{
+    margin-top: 12%;
+}
+
+.left::after{
+    content: '';
+    background-image: linear-gradient(to left, #241042eb, purple);
+    margin-bottom: 4%;
+}
+
+/* CSS FOR CONTACT PG */
+.social{
+    width: 63px;
+    margin-top: 4%;
+    margin-right: -23%;
+    margin-left: 26%;
+    transition: 0.5s;
+}
+
+.social:hover{
+    transform: translateY(-14px);
+}
+
+/* CSS FOR FOOTER */
+.wave2{
+    width: 103%;
+    margin-left: -28px;
+    margin-top: -2px;
+}
+
+.flogo{
+    width: 37%;
+    margin-left: 32%;
+    margin-bottom: 5%;
+}
+
+.box{
+    margin-left: 33%;
+    margin-top: 5%;
+}
+
+.contact{
+    margin-bottom: 7%;
+}
+
+.sub{
+    margin-top: 16px;
+    border: 2px solid black;
+    margin-bottom: 4%;
+    width: 31%;
+    margin-left: 42%;
+    background-color: purple;
+    border-radius: 20px;
+    font-size: 19px;
+    color: white;
+    font-weight: 600;
+}
+
+.sub:hover{
+    margin-top: 16px;
+    border: 2px solid black;
+    margin-bottom: 4%;
+    width: 31%;
+    margin-left: 42%;
+    background-color: white;
+    border-radius: 20px;
+    font-size: 19px;
+    color: purple;
+    font-weight: 600;
+}
+
+.agency{
+    margin-bottom: 26%;
+}
+
+.website::before{
+    content: '';
+    background-color: white;
+    display: block;
+    height: 5px;
+    width: 200px;
+    margin-left: 454px;
+    transform: translateY(-14px);
+}
+
+.website::after{
+    content: '';
+    background-color: white;
+    display: block;
+    height: 13px;
+    width: 55px;
+    margin-left: 528px;
+    transform: translateY(-47px);
+}
+
+.con::before{
+    margin-left: 60px;
+    margin-right: 10px;
+}
